@@ -1,21 +1,72 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Basic -->
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>nivaaran - Your Trusted Affiliate Product Review Site</title>
-    <meta name="description" content="Discover the best products with honest reviews and expert recommendations. Find tech gadgets, fitness equipment, photography gear, and more at unbeatable prices." />
-    <meta name="author" content="nivaaran" />
-    <meta name="keywords" content="product reviews, affiliate marketing, tech gadgets, fitness equipment, best deals, online shopping" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nivaaran — Building Connections That Inspire</title>
+    <meta name="description" content="Nivaaran is an initiative to connect people, ideas, and purpose — in different ways, yet with one vision. Stay connected. Stay inspired." />
+    <meta name="author" content="Nikhil Panchaal" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.nivaaran.store/" />
+    <meta name="theme-color" content="#0ea5e9" />
 
-    <meta property="og:title" content="nivaaran - Your Trusted Affiliate Product Review Site" />
-    <meta property="og:description" content="Discover the best products with honest reviews and expert recommendations. Find tech gadgets, fitness equipment, photography gear, and more at unbeatable prices." />
+    <!-- Favicons / PWA (add files in /public if you have them) -->
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Performance: Preload likely LCP image (your local logo) -->
+    <link rel="preload" as="image" href="/images/logo-hero.webp" imagesizes="100vw" />
+
+    <!-- Open Graph (Link preview for WhatsApp/FB/IG/LinkedIn) -->
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    <meta property="og:url" content="https://www.nivaaran.store/" />
+    <meta property="og:title" content="Nivaaran — Building Connections That Inspire" />
+    <meta property="og:description" content="A platform to connect people, ideas, and purpose — in different ways, yet with one vision." />
+    <meta property="og:image" content="https://www.nivaaran.store/images/preview-banner.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Nivaaran" />
+    <meta property="og:locale" content="en_IN" />
 
+    <!-- Twitter (X) Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@lovable_dev" />
-    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    <meta name="twitter:url" content="https://www.nivaaran.store/" />
+    <meta name="twitter:title" content="Nivaaran — Building Connections That Inspire" />
+    <meta name="twitter:description" content="A platform to connect people, ideas, and purpose — in different ways, yet with one vision." />
+    <meta name="twitter:image" content="https://www.nivaaran.store/images/preview-banner.jpg" />
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Nivaaran",
+      "url": "https://www.nivaaran.store",
+      "logo": "https://www.nivaaran.store/images/logo-hero.webp",
+      "sameAs": [
+        "https://www.instagram.com/",
+        "https://www.linkedin.com/"
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.nivaaran.store",
+      "name": "Nivaaran",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.nivaaran.store/search?q={query}",
+        "query-input": "required name=query"
+      }
+    }
+    </script>
+
+    <!-- Styles injected by Vite build will be linked automatically -->
   </head>
 
   <body>
