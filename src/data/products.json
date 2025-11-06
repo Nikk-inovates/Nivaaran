@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "title": "Premium Wireless Headphones Pro",
+    "slug": "premium-wireless-headphones-pro",
+    "description": "Experience crystal-clear audio with our flagship wireless headphones featuring active noise cancellation, 40-hour battery life, and premium comfort.",
+    "price": 299.99,
+    "originalPrice": 399.99,
+    "rating": 4.8,
+    "reviews": 2847,
+    "category": "Electronics",
+    "tags": ["audio", "wireless", "premium"],
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/headphones-pro",
+    "features": [
+      "40-hour battery life",
+      "Active noise cancellation",
+      "Premium sound quality",
+      "Comfortable over-ear design",
+      "Foldable and portable"
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Smart Fitness Tracker Watch",
+    "slug": "smart-fitness-tracker-watch",
+    "description": "Track your health and fitness goals with precision. Features heart rate monitoring, sleep tracking, GPS, and 7-day battery life.",
+    "price": 149.99,
+    "originalPrice": 199.99,
+    "rating": 4.6,
+    "reviews": 1923,
+    "category": "Fitness",
+    "tags": ["fitness", "health", "wearable"],
+    "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1557438159-51eec7a6c9e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/fitness-tracker",
+    "features": [
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Built-in GPS",
+      "7-day battery life",
+      "Water resistant"
+    ],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Professional Camera Backpack",
+    "slug": "professional-camera-backpack",
+    "description": "Protect your valuable camera gear with this weather-resistant backpack featuring customizable compartments and comfortable padding.",
+    "price": 179.99,
+    "originalPrice": 229.99,
+    "rating": 4.7,
+    "reviews": 1456,
+    "category": "Photography",
+    "tags": ["camera", "backpack", "photography"],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1622560481166-b2e1b2ab08cf?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/camera-backpack",
+    "features": [
+      "Weather-resistant material",
+      "Customizable compartments",
+      "Laptop sleeve (15-inch)",
+      "Comfortable shoulder straps",
+      "Quick-access side pocket"
+    ],
+    "featured": false
+  },
+  {
+    "id": "4",
+    "title": "Ergonomic Office Chair Elite",
+    "slug": "ergonomic-office-chair-elite",
+    "description": "Work comfortably for hours with this premium ergonomic chair featuring lumbar support, adjustable armrests, and breathable mesh.",
+    "price": 399.99,
+    "originalPrice": 549.99,
+    "rating": 4.9,
+    "reviews": 3241,
+    "category": "Home Office",
+    "tags": ["office", "furniture", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/office-chair",
+    "features": [
+      "Advanced lumbar support",
+      "Adjustable armrests",
+      "Breathable mesh back",
+      "360° swivel base",
+      "Weight capacity: 300 lbs"
+    ],
+    "featured": true
+  },
+  {
+    "id": "5",
+    "title": "Portable SSD Drive 1TB",
+    "slug": "portable-ssd-drive-1tb",
+    "description": "Ultra-fast data transfer with this compact SSD drive. Perfect for professionals who need reliable storage on the go.",
+    "price": 129.99,
+    "originalPrice": 179.99,
+    "rating": 4.7,
+    "reviews": 2156,
+    "category": "Electronics",
+    "tags": ["storage", "ssd", "portable"],
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/ssd-drive",
+    "features": [
+      "1TB storage capacity",
+      "Up to 1050MB/s read speed",
+      "USB-C connectivity",
+      "Shock-resistant design",
+      "3-year warranty"
+    ],
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "4K Webcam Pro",
+    "slug": "4k-webcam-pro",
+    "description": "Professional-grade 4K webcam with auto-focus, built-in microphone, and perfect lighting for video calls and streaming.",
+    "price": 199.99,
+    "originalPrice": 279.99,
+    "rating": 4.6,
+    "reviews": 1678,
+    "category": "Electronics",
+    "tags": ["webcam", "streaming", "video"],
+    "image": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615986201152-7686a4867f30?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/webcam-pro",
+    "features": [
+      "4K video at 30fps",
+      "Auto-focus technology",
+      "Built-in dual microphones",
+      "Ring light included",
+      "Compatible with all platforms"
+    ],
+    "featured": false
+  },
+  {
+    "id": "7",
+    "title": "Mechanical Gaming Keyboard RGB",
+    "slug": "mechanical-gaming-keyboard-rgb",
+    "description": "Elevate your gaming with this mechanical keyboard featuring customizable RGB lighting, tactile switches, and programmable keys.",
+    "price": 159.99,
+    "originalPrice": 209.99,
+    "rating": 4.8,
+    "reviews": 2934,
+    "category": "Gaming",
+    "tags": ["gaming", "keyboard", "rgb"],
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/gaming-keyboard",
+    "features": [
+      "Mechanical tactile switches",
+      "Customizable RGB backlighting",
+      "Programmable macro keys",
+      "Aluminum frame",
+      "Anti-ghosting technology"
+    ],
+    "featured": true
+  },
+  {
+    "id": "8",
+    "title": "Wireless Mouse Precision Pro",
+    "slug": "wireless-mouse-precision-pro",
+    "description": "Work with precision using this ergonomic wireless mouse with adjustable DPI, silent clicks, and long battery life.",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "rating": 4.5,
+    "reviews": 1834,
+    "category": "Electronics",
+    "tags": ["mouse", "wireless", "ergonomic"],
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1563297007-0686b7003af7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/wireless-mouse",
+    "features": [
+      "Adjustable DPI (800-3200)",
+      "Silent click buttons",
+      "Ergonomic design",
+      "6-month battery life",
+      "Bluetooth and 2.4GHz wireless"
+    ],
+    "featured": false
+  },
+  {
+    "id": "9",
+    "title": "Adjustable Standing Desk",
+    "slug": "adjustable-standing-desk",
+    "description": "Transform your workspace with this electric standing desk featuring smooth height adjustment, spacious surface, and cable management.",
+    "price": 499.99,
+    "originalPrice": 699.99,
+    "rating": 4.7,
+    "reviews": 1567,
+    "category": "Home Office",
+    "tags": ["desk", "standing", "furniture"],
+    "image": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/standing-desk",
+    "features": [
+      "Electric height adjustment",
+      "60\" x 30\" work surface",
+      "Memory preset buttons",
+      "Cable management tray",
+      "Weight capacity: 220 lbs"
+    ],
+    "featured": false
+  },
+  {
+    "id": "10",
+    "title": "LED Ring Light Studio Kit",
+    "slug": "led-ring-light-studio-kit",
+    "description": "Professional lighting for content creators. This kit includes a 18-inch ring light, adjustable tripod, and phone holder.",
+    "price": 89.99,
+    "originalPrice": 129.99,
+    "rating": 4.6,
+    "reviews": 2234,
+    "category": "Photography",
+    "tags": ["lighting", "photography", "video"],
+    "image": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=800&h=600&fit=crop"
+    ],
+    "affiliateUrl": "https://example.com/affiliate/ring-light",
+    "features": [
+      "18-inch ring light",
+      "Adjustable color temperature",
+      "Dimmable brightness control",
+      "6-foot adjustable tripod",
+      "Universal phone holder"
+    ],
+    "featured": false
+  }
+]

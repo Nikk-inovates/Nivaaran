@@ -1,0 +1,37 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Latest gadgets and tech devices",
+    "icon": "Laptop"
+  },
+  {
+    "id": "fitness",
+    "name": "Fitness",
+    "slug": "fitness",
+    "description": "Health and fitness equipment",
+    "icon": "Dumbbell"
+  },
+  {
+    "id": "photography",
+    "name": "Photography",
+    "slug": "photography",
+    "description": "Camera gear and accessories",
+    "icon": "Camera"
+  },
+  {
+    "id": "home-office",
+    "name": "Home Office",
+    "slug": "home-office",
+    "description": "Furniture and office essentials",
+    "icon": "Home"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "slug": "gaming",
+    "description": "Gaming peripherals and accessories",
+    "icon": "Gamepad2"
+  }
+]
