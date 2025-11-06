@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
-  // ✅ Increased font size + made text bold
+  // Base styles for navigation links
   const linkBase =
     "relative px-4 py-2 text-lg md:text-xl font-bold text-foreground transition-colors group";
   const linkUnderline =
@@ -25,18 +25,21 @@ const Navbar = () => {
       <div className="container mx-auto px-6 md:px-10">
         {/* Top Bar */}
         <div className="flex items-center justify-between h-20 md:h-24">
-          {/* Logo Only */}
+          {/* Logo */}
           <Link
             to="/"
             className="flex items-center select-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/40 rounded"
             aria-label="Nivaaran Home"
           >
             <img
-              src="https://i.postimg.cc/25HS8J7r/Gemini-Generated-Image-jl7rxjl7rxjl7rxj-removebg-preview.png"
+              src="/images/logo-hero.webp"
               alt="Nivaaran Logo"
-              className="h-70 md:h-72 lg:h-78 w-auto object-contain transition-transform duration-200 hover:scale-[1.05]"
-              loading="lazy"
+              width={1024}               // set to your actual image width
+              height={512}               // set to your actual image height
+              {...({ fetchpriority: "high" } as any)}  // keeps TS happy, preserves high priority
               decoding="async"
+              loading="eager"
+              className="h-70 md:h-72 lg:h-78 w-auto object-contain transition-transform duration-200 hover:scale-[1.05]"
             />
           </Link>
 
@@ -116,7 +119,7 @@ const Navbar = () => {
                   onClick={() => setIsOpen(false)}
                   aria-label="Search"
                 >
-                  <Search className="mr-2 h-4 w-4" />
+                <Search className="mr-2 h-4 w-4" />
                   Search
                 </Button>
               </div>
