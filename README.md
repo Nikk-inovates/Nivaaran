@@ -1,73 +1,64 @@
-# Welcome to your Lovable project
+# NIVAARAN — Official Project
 
-## Project info
+## Project Info
 
-**URL**: https://lovable.dev/projects/29a1a391-fc77-4bef-bc18-641f249b7026
+**Website:** [www.nivaaran.store](https://www.nivaaran.store)
+**Status:** Proprietary & Confidential
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Overview
 
-**Use Lovable**
+This repository contains the official frontend codebase of **NIVAARAN**, developed exclusively for internal and authorized use.
+All source files, assets, and configurations are proprietary and protected under NIVAARAN’s intellectual property rights.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/29a1a391-fc77-4bef-bc18-641f249b7026) and start prompting.
+Unauthorized use, duplication, modification, or redistribution of this project — in whole or in part — is strictly prohibited.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Access & Development Policy
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Access to this repository is restricted to authorized NIVAARAN developers and approved collaborators.
+All development, updates, and deployments must adhere to internal security policies, coding standards, and approval workflows.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Access Rules
 
-Follow these steps:
+* External forks, redistributions, or rebranding are not permitted.
+* All commits and merges require prior authorization.
+* Environment variables, keys, and configuration files are confidential.
+* Source code must never be shared, uploaded, or cloned outside the secure environment.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Technology Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+* Vite – Frontend build tool for fast development
+* React – Component-based UI library
+* TypeScript – Type-safe development
+* Tailwind CSS – Utility-first styling framework
+* shadcn/ui – Accessible, minimal UI components
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## Security and Compliance
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* All files, assets, and builds are proprietary.
+* Environment variables are securely stored and restricted to internal use.
+* Any attempt to copy, extract, or modify the code without authorization is a violation of company policy.
+* Code reviews, testing, and version control are managed under NIVAARAN’s internal compliance procedures.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Contact
 
-## What technologies are used for this project?
+For official collaboration or internal technical support:
+**Email:** [Contact@nivaaran.store](mailto:contact@nivaaran.store)
+**Website:** [www.nivaaran.store](https://www.nivaaran.store)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Legal Notice
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/29a1a391-fc77-4bef-bc18-641f249b7026) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2025 NIVAARAN. All Rights Reserved.
+This project and its codebase are the exclusive property of NIVAARAN.
+Unauthorized reproduction, modification, or redistribution is strictly prohibited and may result in legal action.
